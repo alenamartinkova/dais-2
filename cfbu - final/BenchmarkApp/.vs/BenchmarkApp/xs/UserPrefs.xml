@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{77E31585-2B78-47A4-87A3-F1F0FD18C9D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ThreadTest.cs">
+    <Files>
+      <File FileName="files/query.txt" Line="6" Column="21" />
+      <File FileName="ThreadTest.cs" Line="111" Column="55" />
+      <File FileName="QuerySetPool.cs" />
+      <File FileName="Database/Entities/Pitch.cs" />
+      <File FileName="Database/Tables/TicketTable.cs" />
+      <File FileName="QuerySet.cs" />
+      <File FileName="packages.config" />
+      <File FileName="Program.cs" />
+      <File FileName="BenchmarkApp.cs" Line="25" Column="65" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BenchmarkApp" expanded="True">
+            <Node name="BenchmarkApp" expanded="True">
+              <Node name="Database" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Tables" expanded="True" />
+              </Node>
+              <Node name="files" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="ThreadTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BenchmarkApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

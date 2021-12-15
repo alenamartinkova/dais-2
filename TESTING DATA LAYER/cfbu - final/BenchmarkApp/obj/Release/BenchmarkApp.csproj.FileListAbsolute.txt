@@ -1,0 +1,6 @@
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Release\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Release\Oracle.DataAccess.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\Release\BenchmarkApp.csprojAssemblyReference.cache
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\Release\BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\Release\BenchmarkApp.csproj.CopyComplete
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\Release\BenchmarkApp.exe

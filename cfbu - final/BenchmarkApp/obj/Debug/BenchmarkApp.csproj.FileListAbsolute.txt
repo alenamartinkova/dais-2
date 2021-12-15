@@ -1,0 +1,38 @@
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/obj/Debug/BenchmarkApp.csproj.AssemblyReference.cache
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/obj/Debug/BenchmarkApp.csproj.CoreCompileInputs.cache
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/BenchmarkApp.exe.config
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/BenchmarkApp.exe
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/BenchmarkApp.pdb
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/Bogus.dll
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/Oracle.ManagedDataAccess.dll
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Security.AccessControl.dll
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Security.Permissions.dll
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Security.Principal.Windows.dll
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/Bogus.xml
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Security.AccessControl.xml
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Security.Permissions.xml
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/bin/Debug/System.Security.Principal.Windows.xml
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/obj/Debug/BenchmarkApp.csproj.CopyComplete
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/obj/Debug/BenchmarkApp.exe
+/Users/alenamartinkova/Desktop/Databázové a informační systémy II - Projekt/BenchmarkApp/obj/Debug/BenchmarkApp.pdb
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/obj/Debug/BenchmarkApp.csproj.AssemblyReference.cache
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/obj/Debug/BenchmarkApp.csproj.CoreCompileInputs.cache
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/obj/Debug/BenchmarkApp.exe
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/obj/Debug/BenchmarkApp.pdb
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/BenchmarkApp.exe.config
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/BenchmarkApp.exe
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/BenchmarkApp.pdb
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/Bogus.dll
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/Oracle.ManagedDataAccess.dll
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Configuration.ConfigurationManager.dll
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Security.AccessControl.dll
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Security.Permissions.dll
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Security.Principal.Windows.dll
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/Bogus.xml
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Configuration.ConfigurationManager.xml
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Security.AccessControl.xml
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Security.Permissions.xml
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/bin/Debug/System.Security.Principal.Windows.xml
+/Users/alenamartinkova/Desktop/cfbu - final/BenchmarkApp/obj/Debug/BenchmarkApp.csproj.CopyComplete

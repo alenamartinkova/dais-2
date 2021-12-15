@@ -1,0 +1,12 @@
+﻿// Parameters:
+// - Parameter 1: Table object in the class Database
+// - Parameter 2: Method name
+// - Parameter 3: The number of parameters followed by data types of parameters
+// - Last parameter: The number of queries send to the database
+Statistic Select 0 200
+Statistic SelectPlayerStats 1 int 400
+PlayerTransferHistory GetPlayerTransferHistoriesForPlayer 1 int 300
+Ticket GetTicketsForMatch 1 int 300
+Player UpdateP9 1 int 500
+Pitch Insert 1 Pitch 100
+Statistic UpdateS2 2 int int 1000

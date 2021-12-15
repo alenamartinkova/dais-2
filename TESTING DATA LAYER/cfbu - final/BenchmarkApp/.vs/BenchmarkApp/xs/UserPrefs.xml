@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{77E31585-2B78-47A4-87A3-F1F0FD18C9D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Database/Tables/TicketTable.cs">
+    <Files>
+      <File FileName="files/query.txt" Line="6" Column="21" />
+      <File FileName="ThreadTest.cs" Line="111" Column="55" />
+      <File FileName="QuerySetPool.cs" Line="226" Column="1" />
+      <File FileName="Database/Entities/Pitch.cs" Line="15" Column="29" />
+      <File FileName="Database/Tables/TicketTable.cs" Line="9" Column="34" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BenchmarkApp" expanded="True">
+            <Node name="BenchmarkApp" expanded="True">
+              <Node name="Database" expanded="True">
+                <Node name="Entities" expanded="True" />
+                <Node name="Tables" expanded="True">
+                  <Node name="TicketTable.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="files" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.BenchmarkApp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

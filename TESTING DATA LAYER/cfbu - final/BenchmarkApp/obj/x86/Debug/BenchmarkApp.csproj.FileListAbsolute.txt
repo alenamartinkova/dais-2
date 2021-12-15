@@ -1,0 +1,59 @@
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\BenchmarkApp.exe.config
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\BenchmarkApp.pdb
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\Oracle.DataAccess.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Security.Permissions.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Security.Permissions.xml
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.csprojAssemblyReference.cache
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.csproj.CopyComplete
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.pdb
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\Bogus.dll
+C:\Users\tomje\Desktop\DAIS\BenchmarkAppOriginal\bin\Debug\Bogus.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\BenchmarkApp.exe.config
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\BenchmarkApp.pdb
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\Bogus.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\Oracle.DataAccess.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Security.Permissions.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\Bogus.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Security.Permissions.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.csprojAssemblyReference.cache
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.csproj.CopyComplete
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkAppOriginal\obj\x86\Debug\BenchmarkApp.pdb
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\obj\x86\Debug\BenchmarkApp.csprojAssemblyReference.cache
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\obj\x86\Debug\BenchmarkApp.csproj.CoreCompileInputs.cache
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\obj\x86\Debug\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\obj\x86\Debug\BenchmarkApp.pdb
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\BenchmarkApp.exe.config
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\BenchmarkApp.exe
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\BenchmarkApp.pdb
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\Bogus.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\Oracle.ManagedDataAccess.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Security.AccessControl.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Security.Permissions.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\Bogus.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Security.AccessControl.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Security.Permissions.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\tomje\Desktop\DAIS\Testovani datove vrstvy\BenchmarkApp\obj\x86\Debug\BenchmarkApp.csproj.CopyComplete

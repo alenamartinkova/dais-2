@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{A331DCFE-2597-4479-B126-D3567E5FA170}|Default">
+  <MonoDevelop.Ide.ItemProperties.cfbu PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="cfbu/Database/dao/PlayerTable.cs">
+    <Files>
+      <File FileName="cfbu/Program.cs" Line="25" Column="15" />
+      <File FileName="cfbu/Database/dao/TeamTable.cs" />
+      <File FileName="cfbu/Database/dao/Database.cs" />
+      <File FileName="cfbu/Database/dao/TicketTable.cs" />
+      <File FileName="cfbu/Database/dao/LeagueTable.cs" />
+      <File FileName="cfbu/Database/League.cs" />
+      <File FileName="cfbu/Database/Pitch.cs" />
+      <File FileName="cfbu/Database/Player.cs" />
+      <File FileName="cfbu/Database/PlayerTransferHistory.cs" />
+      <File FileName="cfbu/Database/Statistics.cs" />
+      <File FileName="cfbu/Database/Team.cs" />
+      <File FileName="cfbu/Database/TeamMatch.cs" />
+      <File FileName="cfbu/Database/Ticket.cs" />
+      <File FileName="cfbu/Database/dao/PitchTable.cs" />
+      <File FileName="cfbu/Database/dao/PlayerTable.cs" Line="146" Column="10" />
+      <File FileName="cfbu/Database/dao/PlayerTransferHistoryTable.cs" />
+      <File FileName="cfbu/Database/dao/StatisticsTable.cs" />
+      <File FileName="cfbu/Database/dao/TeamMatchTable.cs" />
+      <File FileName="cfbu/App.config" Line="7" Column="141" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="cfbu" expanded="True">
+            <Node name="cfbu" expanded="True">
+              <Node name="Database" expanded="True">
+                <Node name="dao" expanded="True">
+                  <Node name="PlayerTable.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
